@@ -6,4 +6,4 @@ This GitHub repository is no longer maintained and will not receive further upda
 
 **Please find the active project at:**
 
-https://github.com/ghwmorg/Eudora-W-Zone/
+https://codeberg.org/ghwmorg/Eudora-W-Zone
